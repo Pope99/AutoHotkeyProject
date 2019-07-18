@@ -1,0 +1,2 @@
+# AutoHotkeyProject
+控制Spotify等軟體播放的桌面快捷腳本
